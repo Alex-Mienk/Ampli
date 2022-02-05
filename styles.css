@@ -43,24 +43,24 @@ body {
   color: #205D76;
 }
 
-.iron-preview {
+.second-preview {
   width: 500px;
 }
 /* end header styling */
 
 /* begin main styling */
-.iron-section {
+.second-section {
   display: flex; /* Makes the content witin this element flexible */
   display: -webkit-flex; /* vendor prefix */
   margin: 100px auto; /* Adds spacing at top of all sections and then centers them */
   width: 450px; /* approximate width of each section */
 }
 
-.iron {
+.second {
   width: 200px;
 }
 
-.iron-details { /* This is the div that contains the text */
+.second-details { /* This is the div that contains the text */
   margin-left: 30px;
 }
 
